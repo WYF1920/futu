@@ -1,5 +1,4 @@
-# futu
-Dcloud 5+app 案例DEMO分享（新手专享）
+# futu - Dcloud 5+app 案例DEMO分享（新手专享）
 
 2020的下载已经失效，以此为准
 
